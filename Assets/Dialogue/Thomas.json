@@ -1,0 +1,16 @@
+{
+  "Introduction": "Oh, hi. I'm... um... Thomas. I like the quiet of this place... um... it's nice to meet you.",
+  "Rainy_Days": "I like the rain... it's calming... and it gives me a good excuse to stay indoors.",
+  "Sunny_Days": "The sun can be too bright sometimes... but I like how it makes everything look.",
+  "GiftReaction_Positive": "Wow... this is for me? You didn't have to... but I'm glad you did. Thank you.",
+  "GiftReaction_Negative": "Oh... um... thanks. But I'm not really sure what to do with this...",
+  "MarriageDialogue": {
+    "Mon": "It's a new week, huh? I... um... just wanted to let you know... I appreciate you being here with me.",
+    "Tue": "Do you... um... have plans today? I... I was just curious.",
+    "Wed": "You're a really good person. I'm... um... happy to be with you.",
+    "Thu": "I hope I'm not being too... um... quiet for you. I just like listening more than talking.",
+    "Fri": "End of the workweek, huh? Thanks for being with me through it.",
+    "Sat": "Do you like the weekend? I... um... hope it's a good one for you.",
+    "Sun": "Another week over. Thanks for... um... being here with me."
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Thomas",
+    "Birthday": "sring 30",
+    "GiftTastes": {
+      "Love": ["Strawberry", "Spaghetti", "Emerald"],
+      "Like": ["Milk", "Egg", "Apple"],
+      "Neutral": ["Bread", "Parsnip", "Potato"],
+      "Dislike": ["Clay", "Stone", "Wood"],
+      "Hate": ["Garbage", "Trash Can", "Sea Cucumber"]
+    },
+    "Schedule": {
+      "spring": {
+        "Mon": "TownSquare 9:00 12:00; Beach 13:00 18:00; Home 19:00",
+        "Tue": "Library 9:00 12:00; Park 13:00 18:00; Home 19:00"
+      }
+    }
+  }
+  

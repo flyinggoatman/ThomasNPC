@@ -1,0 +1,43 @@
+{
+  "Format": "1.19.0",
+  "MinimumApiVersion": "3.0.0",
+  "Name": "Thomas NPC Mod",
+  "Author": "flyinggoatman",
+  "Version": "1.0.0",
+  "Description": "Adds a new character named Thomas to Stardew Valley.",
+  "UniqueID": "flyinggoatman.ThomasNPC",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.19.3"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Esca.CustomNPCExclusions",
+      "MinimumVersion": "1.4.0",
+      "IsRequired": true
+    }
+  ],
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Assets/Characters/Thomas",
+      "FromFile": "Assets/Characters/Thomas.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Assets/Portraits/Thomas",
+      "FromFile": "Assets/Portraits/Thomas.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Assets/Dialogue/Thomas",
+      "FromFile": "Assets/Dialogue/Thomas.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Assets/Schedules/Thomas",
+      "FromFile": "Assets/Schedules/Thomas.json"
+    }
+  ]
+}
